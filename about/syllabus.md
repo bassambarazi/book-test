@@ -4,9 +4,9 @@
 
 **Department of Computer Science, Mathematics, Physics, and Statistics**
 
-# Course Syllabus (Official)
+# Tutorial Syllabus (Official)
 
-Below is the official UBC-mandated Course Syllabus for {{ COURSE_CODE }}.
+Below is the official UBC-mandated Tutorial Syllabus for {{ COURSE_CODE }}.
 Elements of this document are **fixed** and unchanging.
 Additional details about the course are available on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
@@ -19,7 +19,7 @@ Additional details about the course are available on the {{ '[course website]({l
 **{{ ROOM }} - {{ MEETING_TIMES }}**
 
 ---
-## Course Instructor
+## Tutorial Instructor
 
 **Name:** {{ INSTRUCTOR }}
 
@@ -36,7 +36,7 @@ For information on how to contact your course instructor, including office hours
 ```{include} syllabus_bits/calendar_entry.md
 ```
 
-## Course Format
+## Tutorial Format
 
 This course has {{ FORMAT }}
 
@@ -44,7 +44,7 @@ You will find all the important term dates in the [UBCO Academic Calendar](http:
 
 ## Learning Outcomes
 
-The Learning Outcomes for this course are: 
+The Learning Outcomes for this tutorial are: 
 
 ```{include} syllabus_bits/course_LOs.md
 ```
@@ -66,14 +66,14 @@ Resources and materials for this course can be found on the {{ '[course website]
 ```{include} syllabus_bits/passing_requirement.md
 ```
 
-## Late Policy and Missed Assignments and Exams
+## Policy and Missed Assignments and Exams
 
 Deadlines in this course have a generous no-penalty {{ GRACE_PERIOD }} grace period so late submissions are not generally accepted.
 Missed Tests and Exams will be given a score of 0 unless prior arrangements are made with the course instructor.
 To contact the instructor for this course, use {{ FORUM_LINK }}.
 Details on deadlines and other course policies can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
-## Tentative Course Schedule
+## Tentative Tutorial Schedule
 The tentative course schedule, subject to change, can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
 ```{include} syllabus_bits/schedule.md
