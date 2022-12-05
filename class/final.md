@@ -91,7 +91,7 @@ I will be individually reviewing each case of large disparities between course a
 
 ## Practice Exams
 
-You can find lots of past final and midterm exams [here](https://people.ok.ubc.ca/jbobowsk/phys111.html) along with full worked solutions.
+You can find lots of past final and midterm exams BB06 [here](https://people.ok.ubc.ca/jbobowsk/phys111.html) along with full worked solutions.
 Please note that the midterms and final exams on that page were done before the pandemic, so were in person and were closed-book.
 Another thing to note that we did not do Chapter 12 this term, so you can ignore all questions on rotational dynamics (torque, moment of inertia, rotational energy, centre of mass, rolling friction, and angular momentum).
 
