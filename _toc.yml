@@ -1,7 +1,7 @@
 format: jb-book
 root: about/unsyllabus
 parts:
-- caption: About this course
+- caption: About this course BB01
   chapters:
   - file: about/pre_term
   - file: about/syllabus
@@ -9,16 +9,16 @@ parts:
   - file: about/accommodations
   - file: about/doing_well
   - file: about/faq
-- caption: Demo section
+- caption: Demo section BB02
   chapters:
   - file: class/demo01/demo01_summary
-    title: Demo 1 - Data Science
+    title: Demo 1 - Data Science BB03
     sections:
       - file: class/demo01/lecture1
       - file: class/demo01/lecture2
       - file: class/demo01/lecture3
   - file: class/demo02/demo02_summary
-    title: Demo 2 - Introductory Physics
+    title: Demo 2 - Introductory Physics BB04
     sections:
       - file: class/demo02/videos
       - file: class/demo02/homework
@@ -31,13 +31,13 @@ parts:
       - file: class/demo04/demo04_summary
         title: Demo 4 - Chemistry
       - url: https://firas.moosvi.com/books/active-learning-technologies/jupyterdays/capacitor_talk/Capacitor.html
-        title: Capacitor Lecture
-- caption: Part 1 - Kinematics
+        title: Capacitor Lecture BB05
+- caption: Part 1 - Kinematics BB06
   chapters:
   - file: class/week01/week01_summary
     title: Week 1 - Introductions!
   - file: class/week02/week02_summary
-    title: Week 2 - Chapter 2
+    title: Week 2 - Chapter 2 BB07
     sections:
       - file: class/week02/readings
       - file: class/week02/videos
@@ -47,7 +47,7 @@ parts:
       - file: class/week02/lab
       - file: class/week02/learninglogs
   - file: class/week03/week03_summary
-    title: Week 3 - Chapter 3
+    title: Week 3 - Chapter 3 BB08
     sections:
       - file: class/week03/readings
       - file: class/week03/videos
@@ -57,7 +57,7 @@ parts:
       - file: class/week03/lab
       - file: class/week03/learninglogs
   - file: class/week04/week04_summary
-    title: Week 4 - Chapter 4
+    title: Week 4 - Chapter 4 BB09
     sections:
       - file: class/week04/readings
       - file: class/week04/videos
@@ -66,10 +66,10 @@ parts:
       - file: class/week04/test
       - file: class/week04/lab
       - file: class/week04/learninglogs
-- caption: Part 2 - Dynamics
+- caption: Part 2 - Dynamics BB10
   chapters:
   - file: class/week05/week05_summary
-    title: Week 5 - Chapter 5
+    title: Week 5 - Chapter 5 BB11
     sections:
       - file: class/week05/readings
       - file: class/week05/videos
@@ -79,9 +79,9 @@ parts:
       - file: class/week05/lab
       - file: class/week05/learninglogs
   - file: class/week06/week06_summary
-    title: Week 6 - Week Off !!
+    title: Week 6 - Week Off !! BB12
   - file: class/week07/week07_summary
-    title: Week 7 - Chapter 6
+    title: Week 7 - Chapter 6 BB13
     sections:
       - file: class/week07/readings
       - file: class/week07/videos
@@ -154,14 +154,14 @@ parts:
       - file: class/week13/test
       - file: class/week13/lab
       - file: class/week13/learninglogs
-- caption: Final Exam
+- caption: Final Exam BB20
   chapters:
   - file: class/final
-- caption: Lab Materials
+- caption: Lab Materials BB21
   chapters:
   - file: class/labs
-    title: Lab Stuff
-- caption: Course Feedback
+    title: Lab Stuff BB22
+- caption: Course Feedback BB23
   chapters:
   - file: about/feedback
-    title: Anonymous Feedback Form
+    title: Anonymous Feedback Form BB24
