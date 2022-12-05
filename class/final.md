@@ -1,6 +1,6 @@
 Final Exam Information
 =======================
-## Logistics
+## Logistics BB01
 
 The final exam will:
 
@@ -16,7 +16,7 @@ The final exam will:
 - NOT include questions on deriving formulas.
 - have some choice (not a lot) in which problems you can choose to do.
 
-## Final exam rules
+## Final exam rules BB02
 
 The usual "Test" rules apply to the final exam also:
 
@@ -33,7 +33,7 @@ The usual "Test" rules apply to the final exam also:
 
 Overall, do not stress! You will be fine :-)
 
-## Exam Structure
+## Exam Structure BB03
 
 Here is the approximate structure of the final exam:
 
@@ -46,7 +46,7 @@ Here is the approximate structure of the final exam:
 ```{warning}
 For Part C, you will be expected to submit written work as images (after the exam) supporting your answers.
 ```
-## Show your work
+## Show your work BB04
 
 During the final exam, you will be expected to work on paper (or a digital equivalent using iPad/tablet, etc...).
 
@@ -58,7 +58,7 @@ Here are our expectations for your work:
 - This does not mean that we will grade your handwriting, diagrams, etc.
 - For each question you choose to do in Part C, you should submit your work solving the problem.
 
-Here is an example of what we are expecting:
+Here is an example of what we are expecting BB05:
 
 <img src="../images/work.png">
 
