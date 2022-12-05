@@ -2,7 +2,7 @@
 
 Below are the assigned videos for this week. 
 The videos are collapsible so once you're done with one, you can move to the next one.
-In the sidebar on the right, you can use the checklists to keep track of what's done.
+In the sidebar on the right, you can use the checklists to keep track of what's done. BB01
 
 ````{margin}
 ```{admonition} Checklist of items
@@ -41,7 +41,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 ````
 
-## Required Videos
+## Required Videos BB02
 
 ```{dropdown} 1.  Introduction to Equilibrium
     :class-container: sd-shadow-lg
@@ -56,7 +56,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/equilibrium.html)
 ```
 
-```{dropdown} 2. Breaking the Force of Gravity into its Components on an Incline
+```{dropdown} 2. Breaking the Force of Gravity into its Components on an Incline BB03
     :class-container: sd-shadow-lg
     :color: primary
 
@@ -68,7 +68,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/incline-components.html)
 ```
 
-```{dropdown} 3. Do You Feel Your Weight? A lesson on Apparent Weight
+```{dropdown} 3. Do You Feel Your Weight? A lesson on Apparent Weight BB04
     :class-container: sd-shadow-lg
     :color: primary
 
@@ -80,7 +80,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/apparent-weight.html)
 ```
 
-```{dropdown} 4. Introduction to Static and Kinetic Friction by Bobby
+```{dropdown} 4. Introduction to Static and Kinetic Friction by Bobby BB05
     :class-container: sd-shadow-lg
     :color: primary
 
@@ -92,7 +92,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/friction-intro.html)
 ```
 
-```{dropdown} 5. Introduction to the Coefficient of Friction
+```{dropdown} 5. Introduction to the Coefficient of Friction BB06
     :class-container: sd-shadow-lg
     :color: primary
 
@@ -104,7 +104,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/mu-intro.html)
 ```
 
-```{dropdown} 6. Understanding the Force of Friction Equation
+```{dropdown} 6. Understanding the Force of Friction Equation BB07
     :class-container: sd-shadow-lg
     :color: primary
     
@@ -116,7 +116,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 - [Direct link to Mr. P's page](https://www.flippingphysics.com/friction-equation.html)
 ```
 
-```{dropdown} 7. Introductory Static Friction on an Incline Problem
+```{dropdown} 7. Introductory Static Friction on an Incline Problem BB08
     :class-container: sd-shadow-lg
     :color: primary
 
