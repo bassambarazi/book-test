@@ -3,10 +3,10 @@
 ![](../images/UBCO_CMPS_header.jpg)
 
 (page_pre_term)=
-# Before term starts
+# Before tutorial starts
 
 Welcome to {{ COURSE_CODE }}, {{ TITLE }} !
-I am very excited that you've decided to enrol in my class.
+I am very excited that you've decided to enrol in this tutorial.
 Whether it's your choice to take this course, or if your were forced into it by your program/degree is not really that important - you're here now, and you're welcomed!
 Many of you are entering your first year of university in a new city, and maybe even a new country!
 To the students local to the area, you have a big responsibility to help your fellow students feel welcome and at home, in their new home.
