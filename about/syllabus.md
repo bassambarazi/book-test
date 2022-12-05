@@ -56,7 +56,7 @@ More details about the course can be found on the {{ '[course website]({link})'.
 There is no requirement to purchase textbooks or any other materials for this course.
 Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
-## Course Evaluation
+## Tutorial Evaluation
 
 ```{include} syllabus_bits/grading_practices_simple.md
 ```
