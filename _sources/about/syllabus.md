@@ -2,11 +2,11 @@
 
 ![](../images/UBCO_CMPS_header.jpg)
 
-**Department of Computer Science, Mathematics, Physics, and Statistics**
+**Department of Quantitative Methods**
 
-# Tutorial Syllabus (Official)
+# Lab Tutorial Syllabus (Official)
 
-Below is the official UBC-mandated Tutorial Syllabus for {{ COURSE_CODE }}.
+Below is the official mandated Tutorial Syllabus for {{ COURSE_CODE }}.
 Elements of this document are **fixed** and unchanging.
 Additional details about the course are available on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
@@ -19,7 +19,7 @@ Additional details about the course are available on the {{ '[course website]({l
 **{{ ROOM }} - {{ MEETING_TIMES }}**
 
 ---
-## Tutorial Instructor
+## Lab Tutorial Instructor
 
 **Name:** {{ INSTRUCTOR }}
 
@@ -36,7 +36,7 @@ For information on how to contact your course instructor, including office hours
 ```{include} syllabus_bits/calendar_entry.md
 ```
 
-## Tutorial Format
+## Lab Tutorial Format
 
 This course has {{ FORMAT }}
 
@@ -44,7 +44,7 @@ You will find all the important term dates in the [UBCO Academic Calendar](http:
 
 ## Learning Outcomes
 
-The Learning Outcomes for this tutorial are: 
+The Learning Outcomes for this lab tutorial are: 
 
 ```{include} syllabus_bits/course_LOs.md
 ```
@@ -56,7 +56,7 @@ More details about the course can be found on the {{ '[course website]({link})'.
 There is no requirement to purchase textbooks or any other materials for this course.
 Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
-## Tutorial Evaluation
+## Lab Tutorial Evaluation
 
 ```{include} syllabus_bits/grading_practices_simple.md
 ```
@@ -73,8 +73,8 @@ Missed Tests and Exams will be given a score of 0 unless prior arrangements are 
 To contact the instructor for this course, use {{ FORUM_LINK }}.
 Details on deadlines and other course policies can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
-## Tentative Tutorial Schedule
-The tentative course schedule, subject to change, can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+## Tentative Lab Tutorial Schedule
+The tentative lab tutorial schedule, subject to change, can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 
 ```{include} syllabus_bits/schedule.md
 ```
