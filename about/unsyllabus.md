@@ -77,7 +77,7 @@ This course website is currently under construction. It will continue to be upda
 ```
 
 (doing-well)=
-## How do I do well in this course?
+## How do I do well in this lab?
 
 ```{include} unsyllabus_bits/doing_well_physics.md
 ```
@@ -91,7 +91,7 @@ This course website is currently under construction. It will continue to be upda
 <div class="page_break"> </div>
 
 (tools)=
-## Course Tools
+## Lab Tools
 
 ```{include} unsyllabus_bits/course_tools.md
 ```
@@ -99,13 +99,13 @@ This course website is currently under construction. It will continue to be upda
 <div class="page_break"> </div>
 
 (philosophy)=
-## Teaching Philosophy
+## Learning Philosophy
 
 ```{include} unsyllabus_bits/teaching_philosophy.md
 ```
 
 (academic-integrity)=
-## Academic Integrity
+## Scientific Integrity
 
 ```{include} unsyllabus_bits/academic_integrity.md
 ```
@@ -113,7 +113,7 @@ This course website is currently under construction. It will continue to be upda
 <div class="page_break"> </div>
 
 (withdrawing)=
-## What should I think about if I'm considering withdrawing from the course?
+## What should I think about if I'm considering ...?
 
 ```{include} unsyllabus_bits/withdrawing.md
 ```
