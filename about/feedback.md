@@ -1,7 +1,7 @@
 # Anonymous Feedback Form
 
-Please let me know if you have any comments, thoughts, questions, and feedback about the tutorial or materials. This form is completely anonymous and no identifiable information will be collected or stored. I hope you will consider this a safe space to provide genuine feedback (PMG).
+Please let me know if you have any comments, thoughts, questions, and feedback about the lab tutorial or materials. This form is completely anonymous and no identifiable information will be collected or stored. I hope you will consider this a safe space to provide genuine feedback (PMG).
  
-Note that despite the fact that this form is anonymous and I will never find out who you are, I urge you to still be respectful, courteous, and professional. Don't forget, I am human too!
+Note that despite the fact that this form is anonymous and we will never find out who you are, we urge you to still be respectful, courteous, and professional. Don't forget, we are human too!
 
 <iframe src="https://ubc.ca1.qualtrics.com/jfe/form/SV_5ATZJAhiEFRlwwJ" frameborder="0" width="700" height="650"></iframe>
