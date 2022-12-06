@@ -29,7 +29,7 @@ Having some stuff to do before the term starts works for some students, but for 
 
 Here is a list of things you can do (but don't have to) before the term starts:
 
-```{dropdown} 📧 1. Sign up for a UBC Student Email address!
+```{dropdown} 📧 1. Sign up for ABCD!
     :class-container: sd-shadow-lg
     :color: success
 
@@ -58,7 +58,7 @@ You should get into the habit of using this email address as much as possible du
 This account will also grant you access to a range of other UBC services including a free license to Microsoft Office and OneDrive.
 ```
 
-```{dropdown} 🖨 2. Set yourself up to Print on Campus
+```{dropdown} 🖨 2. Set yourself ABCD
     :class-container: sd-shadow-lg
     :color: success
 
@@ -96,7 +96,7 @@ Don't be shy, but please also be respectful and courteous.
 
 If you created a Hypothes.is account, **select this bolded text** and make a comment about your favourite activity.
 
-## Frequently asked questions (before the term starts)
+## Frequently asked questions (and other misc.)
 
 ````{dropdown} How do I address my professors at UBCO?
     :class-container: sd-shadow-lg
@@ -105,7 +105,7 @@ If you created a Hypothes.is account, **select this bolded text** and make a com
 
 ```{tip}
 The short answer is: always use `Dr.` + `<last name>` or `Professor` + `<last name>`.
-So you would call me `Dr. Moosvi` in emails and in-person.
+So you would call me `Inspector Clouseau` in emails and in-person.
 ```
 
 The long answer is a bit of a rant, so bear with me here!
