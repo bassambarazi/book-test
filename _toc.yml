@@ -1,7 +1,7 @@
 format: jb-book
 root: about/unsyllabus
 parts:
-- caption: About this course BB01
+- caption: About this tutorial
   chapters:
   - file: about/pre_term
   - file: about/syllabus
