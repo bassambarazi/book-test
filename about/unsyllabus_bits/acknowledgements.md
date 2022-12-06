@@ -1,5 +1,5 @@
-The syllabus was constructed and adapted from many other templates and examples.
-Below is the list of resources I have used to put this syllabus together:
+The lab tutorial was constructed and adapted from many other templates and examples.
+Below is the list of resources we have used to put this lab tutorial together:
 
 - Physics 117 (Instructor: [Dr. Simon Bates](https://sites.google.com/site/simonpbates/home?authuser=0))
 - Psychology 417A-951 (Instructor: [Dr. Catherine Rawn](https://blogs.ubc.ca/catherinerawn/))
