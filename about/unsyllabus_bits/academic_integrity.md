@@ -1,4 +1,4 @@
-### How do I go through this course with integrity?
+### How do I go through this lab tutorial with scientific integrity?
 
 I want to be proud of your work in this course, and I want YOU to be proud of yourself as well!
 That cannot happen if you make unethical decisions, including (but not limited) to cheating or plagiarism.
@@ -35,7 +35,7 @@ With these features, and several other little things, I sincerely hope that you 
 
 A more detailed description of academic integrity, including the University’s policies and procedures, may be found in the [Academic Calendar](https://calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,0).
 
-### What is considered academic dishonesty in this course?
+### What is considered scientific dishonesty in this tutorial?
 
 To make it even easier for you to decide what isn't allowed, below is a list of things that I **definitely** consider to be academic dishonesty:
 
