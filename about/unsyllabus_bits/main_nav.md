@@ -7,7 +7,7 @@
 :link-type: ref
 :class-header: sd-bg-primary sd-text-white
 
-Teaching Team ✏️
+Lab Team ✏️
 ^^^
 
 Information about the teaching team and how to contact us.
@@ -18,10 +18,10 @@ Information about the teaching team and how to contact us.
 :link-type: ref
 :class-header: sd-bg-dark sd-text-white
 
-Course Schedule 🗓
+Lab Schedule 🗓
 ^^^
 
-A table of course topics and a week-by-week plan of what we intend to cover.
+A table of lab topics and a week-by-week plan of what we intend to cover.
 
 :::
 
@@ -56,7 +56,7 @@ Learn how to get help and get support if you're struggling, academically or othe
 Evaluation ✅
 ^^^
 
-Information about the grading system and evaluation scheme for this course.
+Information about the for this lab tutorial.
 :::
 
 :::{grid-item-card}
@@ -89,7 +89,7 @@ List of changes made to the Unsyllabus since the start of term, and a rationale.
 Honesty & Integrity 😇
 ^^^
 
-Completing this course with honesty and integrity. Examples of things you can and should not not do.
+Completing this tutorial with honesty and integrity. Examples of things you can and should not not do.
 :::
 
 :::{grid-item-card}
