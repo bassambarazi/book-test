@@ -1,5 +1,5 @@
 # Book settings
-title: RLSO 111 
+title: Reinforcement Learning and Stochastic Optimization 
 author: PMG
 logo: images/logo.jpg
 copyright: ""
@@ -18,7 +18,7 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  announcement: "Use this JupyterBook as a <a href='https://github.com/firasm/jupyterbook_course_template' style='color:pink;'>template by clicking here</a>!"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  announcement: " Welcome to PMG Research  <a href='https://github.com/firasm/jupyterbook_course_template' style='color:pink;'>template by clicking here</a>!"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   # google_analytics_id: UA-11111111 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
