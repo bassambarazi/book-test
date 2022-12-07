@@ -1,6 +1,6 @@
 ![](../images/header.jpg)
 
-![](../images/UBCO_CMPS_header.jpg)
+![](../images/CSheader.jpg)
 
 (page_pre_term)=
 # Before tutorial starts
