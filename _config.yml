@@ -1,6 +1,6 @@
 # Book settings
-title: Sequential Decision Analytics in Private Investment Markets 
-author: PMG
+title: Decision Analytics in Private Investment Markets 
+author: PMG Learner
 logo: images/logo.jpg
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
@@ -64,7 +64,7 @@ sphinx:
       COURSE_CODE: "RLSO TUTORIAL"
       SECTION: "001"
       CREDITS: "3"
-      TITLE: "Introductory RLSO for Private-markets Investment Decision Analytics"
+      TITLE: "Private-markets Investment Decision Analytics: Reinforcement Learning and Stochastic Optimization"
       PREREQS: "Curiousity, effort, and tenacity are strongly recommended)."
       COREQS: "Simple logic"
       TERM: "2023 Winter ABCD"
