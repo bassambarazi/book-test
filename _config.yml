@@ -18,7 +18,7 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  announcement: " Welcome to PrivateMetrics Group's investment decision analytics research and learning lab, explore with us  <a href='https://github.com/bassambarazi/book-test' style='color:pink;'> by clicking here</a>!"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  announcement: " Welcome to PrivateMetrics Group's research lab, learn and explore with us  <a href='https://github.com/bassambarazi/book-test' style='color:pink;'> by clicking here</a>!"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   # google_analytics_id: UA-11111111 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
