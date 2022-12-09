@@ -10,7 +10,7 @@
 Lab Team ✏️
 ^^^
 
-Information about the teaching team and how to contact us.
+Information about the research team and how to contact us.
 :::
 
 :::{grid-item-card}
@@ -33,7 +33,7 @@ A table of lab topics and a week-by-week plan of what we intend to cover.
 Doing Well 😊
 ^^^
 
-Strategies and tips on how to do well in this course.
+Strategies and tips on how to do well in this lab tutorial.
 
 :::
 
@@ -45,7 +45,7 @@ Strategies and tips on how to do well in this course.
 Getting Help ❤️‍🩹
 ^^^
 
-Learn how to get help and get support if you're struggling, academically or otherwise.
+Learn how to get help and get support.
 :::
 
 :::{grid-item-card}
@@ -64,10 +64,10 @@ Information about the for this lab tutorial.
 :link-type: ref
 :class-header: sd-bg-light
 
-Teaching Philosophy 🧙‍♂️
+Learning Philosophy 🧙‍♂️
 ^^^
 
-How this course will be taught and how humans learn (you may be surprised!).
+How this lab tutorial will be taught and how humans learn (you may be surprised!).
 :::
 
 :::{grid-item-card}
@@ -78,7 +78,7 @@ How this course will be taught and how humans learn (you may be surprised!).
 Changes ✍️
 ^^^
 
-List of changes made to the Unsyllabus since the start of term, and a rationale.
+List of changes made to the Unsyllabus since the start of lab tutorial, and a rationale.
 :::
 
 :::{grid-item-card}
