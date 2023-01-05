@@ -3,7 +3,7 @@
 ![](../images/CSbanner.jpg)
 
 (unsyllabus)=
-# Unsyllabus
+# PrivateMetrics Group Research Lab
 
 ```{figure} ../images/construction.jpeg
 ---
