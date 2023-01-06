@@ -3,7 +3,7 @@
 ![](../images/CSbanner.jpg)
 
 (unsyllabus)=
-# PrivateMetrics Group Research Lab
+# PMG AI Lab
 
 ```{figure} ../images/construction.jpeg
 ---
