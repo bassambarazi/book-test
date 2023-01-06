@@ -3,7 +3,7 @@
 ![](../images/CSbanner.jpg)
 
 (page_pre_term)=
-# Before tutorial starts
+# Preliminaries
 
 Welcome to {{ COURSE_CODE }}, {{ TITLE }} !
 I am very excited that you've decided to enrol in this tutorial.
