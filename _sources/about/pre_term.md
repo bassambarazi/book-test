@@ -96,6 +96,8 @@ Don't be shy, but please also be respectful and courteous.
 
 If you created a Hypothes.is account, **select this bolded text** and make a comment about your favourite activity.
 
+### Say Hello! Subheading
+
 ## Frequently asked questions (and other misc.)
 
 ````{dropdown} How do I address my professors at UBCO?
